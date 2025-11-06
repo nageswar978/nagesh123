@@ -4,6 +4,7 @@ public class HelloWorld {
         System.out.println("Hello, World!");
     }
 }
+
 //dev2 code
 public class Main {
   public static void main(String[] args) {
@@ -11,4 +12,4 @@ public class Main {
     System.out.println(name);
   }
 }
-
+new code by dev-1 without pull the code
